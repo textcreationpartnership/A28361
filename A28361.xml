@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A small treatise writ by one of the true Christian faith who believes in God and in his son Jesus Christ. By S.B.</title>
+            <author>Blandford, Susannah.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28361</idno>
+            <idno type="STC">Wing B3163B</idno>
+            <idno type="STC">ESTC R222587</idno>
+            <idno type="EEBO-CITATION">99833741</idno>
+            <idno type="PROQUEST">99833741</idno>
+            <idno type="VID">38219</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28361)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38219)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2204:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A small treatise writ by one of the true Christian faith who believes in God and in his son Jesus Christ. By S.B.</title>
+                  <author>Blandford, Susannah.</author>
+               </titleStmt>
+               <extent>[8+] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>S.B. = Susannah Blandford.</note>
+                  <note>Imperfect; lacks all after A4.</note>
+                  <note>Reproduction of the original in the Swarthmore College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38219:1" rendition="simple:additions"/>
+            <p>A SMALL TREATISE Writ by one of the True Chriſtian FAITH; WHO Believes in GOD and in his Son JESUS CHRIST.</p>
+            <q>
+               <bibl>
+                  <hi>Acts 24.14.</hi>
+               </bibl>
+               <p>After the way which Men call Hereſie, ſo worſhip I the God of my Fathers, Believing all things which are writ<g ref="char:EOLhyphen"/>in the Law and the Prophets.—</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſalm 78.1.</hi>
+               </bibl>
+               <p>What I have heard and known, and our Fathers have declared we will not hide from our Children, but to the Generation to come we will ſhew forth the Praiſe of the Lord; his Power alſo, and his wonderful Works that he hath done, and declare it to our Children, that they may ſet their hope in God; and forget not the Works of God, but keep his Commandments.</p>
+            </q>
+            <p>By <hi>S. B.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1700.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:38219:2"/>
+            <pb facs="tcp:38219:2"/>
+            <p>THis ſmall Treatiſe is given forth by one who hath not deſignedly inſinuated in<g ref="char:EOLhyphen"/>to any Man's favour, nor w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ingly to offend, but deſires to follow Peace with all Men; hav<g ref="char:EOLhyphen"/>ing in the ſight of the All-ſeeing God declared what I have ſeen, and what I have heard and received by the Word of Life; not boaſtingly, but in ſimplicity of Heart; and whoever ſows in that Ground, ſhall find encreaſe: They that ſow in the Hypocritical ground, to be ſeen of Men, ſhall in Harveſt reap a poor and barren Crop; but thoſe that have in ſincerity followed the Lord their God, and have gon on weeping, bear<g ref="char:EOLhyphen"/>ing Precious Seed, ſhall come again rejoyceing, bringing their Sheavs with them, with ſuch I have mourned, and with ſuch I now rejoyce, and have not conſulted with Fleſh and Blood nor earthly advantage, but with many of my dear Friends have wreſtled with the good An<g ref="char:EOLhyphen"/>gel until the day dawn, and the Day-Star ariſe in our Hearts, and hath not let him go until he hath bleſſed us; and of that Stone have made a Pillar, and he was there though we knew it not, and have not received theſe things by Tradition, though born of good Parents (though of another perſwaſion) yet could not
+<pb facs="tcp:38219:3"/>my Heart be ſatisfied but thirſted, to know the True and Living God, who hath fully ſatisfied me, of whom I asked the true Bread, and he hath not deceived me, nor given me a Serpent inſtead of a Fiſh, but like a good Father hath given me that Bread which daily nouriſheth my Soul; Bleſſed are all thoſe that have a part in the firſt Reſurrection, on ſuch the ſecond Death ſhall have no power.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38219:3" rendition="simple:additions"/>
+            <head>It is not to the Rich nor the full, but to thoſe that are asking the way to Sion with their Faces thitherward, to whom I thus write.</head>
+            <p>THE Lord having given to Man a Meaſure of his Spirit to profit withal, hath by his Son the Light of the World knocked at the Door of our Hearts, to whom we opened, and let him in, and he is become our Salvation; and all thoſe that fight againſt this his Bleſſed Appearance, and will not that he ſhould rule over them, he will come in an hour that they look not for him, and give them their portion with Hypocrites and Unbelievers.</p>
+            <p>Having beheld many good Men caſting their gift into the Treaſury, I of my little caſt in my Mite, which I would not through negligence omit any thing wherein I might ſerve the Lord, his Truth and People; believing it my Duty, having found that ſatisfaction and reſt to my travelling Soul, that I could not find by all my undertakings, though I ſought them ſincerely in viſible things; until I turned into the Word of God in the Heart, and by the light there<g ref="char:EOLhyphen"/>of ſaw to ſweep my own Houſe, wherein I found the loſt Piece, <hi>Luke</hi> 15.9. the Pearl of great Price, the little Leaven hid in three meaſures of Meal, and the Parable therein truly opened, and thereby have learned to know the true God, and Jeſus Chriſt whom he
+<pb facs="tcp:38219:4"/>hath ſent; which to know is Life Eternal, which leads into the Kingdom of Reſt and Peace; and am ſo well ſatisfied with the truth thereof, that I may ſay with <hi>Paul,</hi> if an Angel from Heaven ſhould Preach any other Doctrin, I could not re<g ref="char:EOLhyphen"/>ceive it: Though I have met with many Tryals and Temptations in the way, yet none ſo great as to cauſe me to queſtion the truth thereof, when I have beheld many to fall on the Right Hand, and on the left, and many go back again, I was preſerved, and firmly fixed, and grounded on the Rock, which Rock is Chriſt, and he is my King, Prieſt, and Pro<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and hath led me through diſpenſations, and adminiſtrations, and hath brought me to praiſe his Name in the Land of the Living, and in this we rejoyce, notwithſtanding the fury of Men, well know<g ref="char:EOLhyphen"/>ing from what Spirit it comes, even the ſame that called the Son of God a Devil, a Blaſphe<g ref="char:EOLhyphen"/>mer, a Friend to Publicans, and Sinners, a breaker of the Law, and his Apoſtles, turners of the World upſide down, <hi>Acts</hi> 17.6. and as he was then, ſo are we, accounted by ſome as deceivers, yet true, though called <hi>Hereticks,</hi> Worſhiping the God of our Fathers, Believing the Law and the Prophets, and in Jeſus Chriſt the Son of God, and in the Anointing, which he pro<g ref="char:EOLhyphen"/>miſed to ſend, and he hath ſent, and we have re<g ref="char:EOLhyphen"/>ceived it, and the ſufficiency whereof we have experienced, and is become our Teacher ſuffi<g ref="char:EOLhyphen"/>cient to guide into all Truth: This is the Day he Promiſed, which many deſired to ſee, but ſaw it not; and many might have ſeen, but have rejected the Lord of Life; and like the
+<pb facs="tcp:38219:4"/>Dog returned to the Vomit, and as the Sow once waſhed, to the wallowing in the Mire; and think to cover themſelves by laying open what they judge the weakneſs, or infirmities of o<g ref="char:EOLhyphen"/>thers, and make Men offenders for words, and make their own perverſe Conſtructions thereof, and not what they intended that writ or ſpake them; but if ſome were ſo weak as they have Repreſented them, ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not every one Anſwer for himſelf? But the Innocent, and many who were not then Born, muſt be Charged therewith. O ye workers of Iniquity, your ſtrength in the Arm of Fleſh ſhall not ſecure you; for he againſt whom you are riſen is too mighty for you, to whom all muſt bow; though he is great in Mer<g ref="char:EOLhyphen"/>cy, yet juſt in Judgment, and will judge the Secrets of all Hearts, by Jeſus Chriſt our Lord and Saviour, who with his Spiritual Eyes ſees through all carnal imaginations of Mens Tradi<g ref="char:EOLhyphen"/>tions and Imitations, and will get himſelf a Name above all, Lord of Lords, who in the time of Ignorance winked at theſe things; but now he looks that all ſhould come to the know<g ref="char:EOLhyphen"/>ledge of his Son, who gives unto his Children to know the God of <hi>Abraham</hi> and his Seed; that he will bring them to the Land of Promiſe; who raiſed up his Servant <hi>Moſes</hi> to go before <hi>Iſrael,</hi> and delivered them (out of the Hand of <hi>Pharaoh</hi> and his <hi>Task-Maſters</hi>) who paſſed through the Sea, and came into the Wilderneſs, and there wandred, and murmured, as ſome have done in our day, and have gon round until they came near the Place where they came in, ſome went for<g ref="char:EOLhyphen"/>ward toward the good Land, and brought an e<g ref="char:EOLhyphen"/>vil
+<pb facs="tcp:38219:5"/>Report thereof, but praiſed be God who hath raiſed up a Spirit of Courage, as was in <hi>Joſuah</hi> and <hi>Caleb,</hi> and they preſs forwards toward the good Land, and have entred the Borders thereof, and found it as God Promiſed, a Land following with all good things; of which, who<g ref="char:EOLhyphen"/>ever have taſted, it is beyond all carnal appre<g ref="char:EOLhyphen"/>henſions or Imaginations, which if the Heart be filed therewith, it muſt be emptied. All that would know the True God, in the Heavenly ſtill Voice, and the Prophet, of which <hi>Moſes</hi> ſaid the Lord your God ſhall raiſe up, him ſhall you hear, and him we do hear, and have Learned ſubjection to his Will thereby, as well know<g ref="char:EOLhyphen"/>ing, all things work together for good: And have this to ſay to all true Chriſtian Friends, be of good Courage, fear not the Reproach of Men, there is nothing come to paſs but what was for a Tryal for us, and what I ſaid once I may ſay again, it is a Cloud God ſuffereth to riſe, and the Wind ſhall blow away the Chaff, but he will gather the Wheat thereby nearer to<g ref="char:EOLhyphen"/>gether; this I know to be a certain truth, by which my Heart hath been ſtrengthned, and ſo I have by this Prophetical Dream, which I had many years ago, when I had no thought or ſuſpicion of what is ſince come to paſs. Which was as followeth,</p>
+            <p>I with ſome of my Chriſtian Friends, was fallen into their Hands who had been of the ſame Profeſſion, but they were changed into ſo cruel a Nature, as I thought I never ſaw the like; for, for my Friends I was grieved more than for my ſelf, but they were taken out of my ſight, and I <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
